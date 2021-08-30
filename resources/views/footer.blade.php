@@ -23,9 +23,9 @@
                         <div class="footer-nav-wrap text-white">
                             <h5 class="text-white">Perusahaan</h5>
                             <ul class="list-unstyled footer-nav-list mt-3">
-                                <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Tentang Kami</a></li>
-                                <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Kebijakan Privasi</a></li>
-                                <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Sarat & Ketentuan</a></li>
+                                <li><a href="/tentangkami" class="text-foot"><span class="ti-angle-double-right"></span> Tentang Kami</a></li>
+                                <li><a href="/kebijakanprivasi" class="text-foot"><span class="ti-angle-double-right"></span> Kebijakan Privasi</a></li>
+                                <li><a href="/syarat&ketentuan" class="text-foot"><span class="ti-angle-double-right"></span> Sarat & Ketentuan</a></li>
                             </ul>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                         <div class="footer-nav-wrap text-white">
                             <h5 class="text-white">Layanan</h5>
                             <ul class="list-unstyled footer-nav-list mt-3">
-                                <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Souvenir</a></li>
+                                <li><a href="/suvenir" class="text-foot"><span class="ti-angle-double-right"></span> Suvenir</a></li>
                                 <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Ticket</a></li>
                                 <li><a href="#" class="text-foot"><span class="ti-angle-double-right"></span> Virtual Tour</a></li>
 

@@ -83,10 +83,10 @@
             </button>
                 <div class="collapse navbar-collapse h-auto" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto menu">
-                        <li class="dropdown"><a href="#"> Beranda</a></li>
-                        <li><a href="#wisata" class="page-scroll">Wisata</a></li>
-                        <li><a href="#suvenir" class="page-scroll">Suvenir</a></li>
-                        <li><a href="#contact" class="page-scroll">Kontak Kami</a></li>
+                        <li class="dropdown"><a href="/">Beranda</a></li>
+                        <li><a href="/wisata" class="page-scroll">Wisata</a></li>
+                        <li><a href="/suvenir" class="page-scroll">Suvenir</a></li>
+                        <li><a href="/kontakkami" class="page-scroll">Kontak Kami</a></li>
                     </ul>
                 </div>
             </div>

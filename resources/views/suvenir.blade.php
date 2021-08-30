@@ -29,9 +29,9 @@
                 <div class="row justify-content-center">
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading text-center mb-2">
-                            <h2>Meet With Our Valuable Partner</h2>
+                            <h2>Rekomendasi Suvenir</h2>
                             <p class="lead">
-                                Authoritatively evisculate team building intellectual capital through functional leadership. Interactively recaptiualize exceptional process.
+                                Tourinesia memberikan contoh beberapa suvenir yang tersedia disini.
                             </p>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Gantungan kunci biasanya suvenir yang sering dicari karena murah</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Gelang merupakan suvenir yang mudah dicari dan murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails1" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Kaos merupakan suvenir yang mudah dicari, bagus dan murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails2" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Gantungan kunci biasanya suvenir yang sering dicari karena murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails3" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Topi merupakan suvenir yang mudah dicari, bagus dan murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails4" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Syall merupakan suvenir yang bagus untuk wisatawan yang ke Bromo.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails5" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Kaos merupakan suvenir yang mudah dicari, bagus dan murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails6" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                             </div>
                             <div class="partner-info">
                                 <p>Kaos merupakan suvenir paling mudah dicari, bagus, dan murah.</p>
-                                <a href="#" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
+                                <a href="/suvenirdetails7" class="view-details-link">Get more info<span class="ti-angle-right"></span></a>
                             </div>
                         </div>
                     </div>

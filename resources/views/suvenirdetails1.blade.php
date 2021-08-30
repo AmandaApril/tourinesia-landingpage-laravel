@@ -30,7 +30,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-md-8">
                         <div class="service-details-wrap">
-                            <img src="img/.jpg" alt="client" width="700" class="img-fluid" />
+                            <img src="img/gelang.jpg" alt="client" width="700" class="img-fluid" />
                             <div class="services-detail-content mt-4">
                                 <h4>Detail Suvenir</h4>
                                 <p>Di wisata Jatim Park 1 terdapat beberapa suvenir yang di jual salah satunya yaitu gambar yang berada di atas tersebut. Gelang ini sangatlah murah harganya dimulai dari 8.000-an saja kalian sudah bisa mendapatkannya.</p>

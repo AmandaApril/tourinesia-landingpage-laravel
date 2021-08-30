@@ -468,7 +468,7 @@
                             <div class="action-btns download-btn mt-4">
                                 <a href="#download" class="btn outline-white-btn mr-3 page-scroll">
                                     <i class="fab fa-android"></i> Unduh Aplikasi kami</a>
-                                <a href="#contact" class="btn solid-white-btn page-scroll">Kontak Kami</a>
+                                <a href="/kontakkami" class="btn solid-white-btn page-scroll">Kontak Kami</a>
                             </div>
                         </div>
                     </div>
